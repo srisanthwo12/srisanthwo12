@@ -114,14 +114,14 @@ Cybersecurity Enthusiast • Ethical Hacker • Offensive Security Learner • P
 # 🧑‍💻 Competitive Programming
 
 <p align="center">
-<a href="https://leetcode.com/u/f6d4slx9wH/">
-<img src="https://leetcard.jacoblin.cool/f6d4slx9wH?theme=dark&font=Fira%20Code&ext=contest"/>
+<a href="https://leetcode.com/u/CUPdvcuV6E/">
+<img src="https://leetcard.jacoblin.cool/CUPdvcuV6E?theme=dark&font=Fira%20Code&ext=contest"/>
 </a>
 </p>
 
 <p align="center">
 <b>LeetCode Profile</b><br>
-https://leetcode.com/u/f6d4slx9wH/
+https://leetcode.com/u/CUPdvcuV6E/
 </p>
 
 ---
