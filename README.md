@@ -25,7 +25,7 @@ Cybersecurity Enthusiast • Ethical Hacker • Offensive Security Learner • P
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Syedwafeeq&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=srisanthwo12&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -41,7 +41,6 @@ Cybersecurity Enthusiast • Ethical Hacker • Offensive Security Learner • P
 
 ⚔️ Practicing:
 - **CTFs**
-- **Exploit Development**
 - **Penetration Testing**
 
 📚 Dedicated to understanding **both attacker and defender perspectives**
@@ -54,8 +53,7 @@ Cybersecurity Enthusiast • Ethical Hacker • Offensive Security Learner • P
 
 🔎 Advanced Network Security  
 🌐 Web Application Exploitation  
-🐧 Linux Privilege Escalation  
-🧨 Exploit Development  
+🐧 Linux Privilege Escalation   
 🏴 Capture The Flag Challenges  
 🔐 Secure Coding Practices  
 
