@@ -91,8 +91,8 @@ Cybersecurity Enthusiast • Ethical Hacker • Offensive Security Learner • P
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Syedwafeeq&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syedwafeeq&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=srisanthwo12&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srisanthwo12&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -100,7 +100,7 @@ Cybersecurity Enthusiast • Ethical Hacker • Offensive Security Learner • P
 # 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Syedwafeeq&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=srisanthwo12&theme=tokyo-night"/>
 </p>
 
 ---
