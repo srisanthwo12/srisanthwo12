@@ -1,7 +1,7 @@
 <!-- ========================= HEADER SECTION ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=THAVVA%20SRISANTH&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=THAVVA%20SRISANTH%20REDDY&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
